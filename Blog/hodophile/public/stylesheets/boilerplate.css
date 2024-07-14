@@ -1,0 +1,11 @@
+body {
+
+    /* background-image: linear-gradient(to right, #f58b34, #eeb87b, #faffb7, #faffb7, #eeb87b, #f58b34);
+    background-repeat: repeat;
+    background-size: contain; */
+    background-image: linear-gradient(to bottom, rgba(85, 76, 76, 0.6) 0%,rgba(209, 199, 199, 0.9) 100%), 
+    url(https://images.unsplash.com/photo-1433838552652-f9a46b332c40?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
